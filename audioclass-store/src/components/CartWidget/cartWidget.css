@@ -1,0 +1,15 @@
+.product-cart{
+    margin: 0 1rem 0 2rem;
+    width: 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+.product-cart:hover{
+    cursor: pointer;
+}
+
+.product-cart-icon{
+    max-width: 2rem;
+    max-height: 2rem;
+}
